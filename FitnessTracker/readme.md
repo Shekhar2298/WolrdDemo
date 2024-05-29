@@ -39,5 +39,5 @@ The Fitness and Wellness Tracker is a console-based application designed to help
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Shekhar2298/WorldDemo.git
+   git clone https://github.com/Shekhar2298/WolrdDemo/tree/main/FitnessTracker.git
    cd fitnessTracker
